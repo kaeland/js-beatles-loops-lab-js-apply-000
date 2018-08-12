@@ -9,3 +9,7 @@ var theBeatlesPlay = function(musicians, instruments) {
   return array
 }
 
+var johnLennonFacts = function(facts) {
+  var arrLength = facts.length
+  while ()
+}
