@@ -19,3 +19,8 @@ var johnLennonFacts = function(facts) {
   return facts
 }
 
+var iLoveTheBeatles = function(n) {
+  var arr = []
+  do 
+    
+}
