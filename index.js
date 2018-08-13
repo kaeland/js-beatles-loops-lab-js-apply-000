@@ -21,6 +21,5 @@ var johnLennonFacts = function(facts) {
 
 var iLoveTheBeatles = function(n) {
   var arr = []
-  do 
-    
+  do {} while ()
 }
